@@ -1,0 +1,13 @@
+body {
+    display: flex;
+    flex-flow: row wrap;
+}
+
+img {
+    width: 200px;
+    height: auto;
+    margin: 20px;
+    align-self: center;
+}
+
+/*# sourceMappingURL=/style.e308ff8e.css.map */

@@ -7,5 +7,4 @@ webpack
 compilation-stats.json
 .dll
 profiles
-dist/
 .cache/

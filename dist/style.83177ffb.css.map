@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,KACI,YAAa,CACb,kBACJ,CAEA,IACI,WAAY,CACZ,WAAY,CACZ,WAAY,CACZ,iBACJ","file":"style.83177ffb.css","sourceRoot":"..","sourcesContent":["body {\r\n    display: flex;\r\n    flex-flow: row wrap;\r\n}\r\n\r\nimg {\r\n    width: 200px;\r\n    height: auto;\r\n    margin: 20px;\r\n    align-self: center;\r\n}"]}
